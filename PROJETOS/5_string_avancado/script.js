@@ -1,0 +1,6 @@
+console.log('First line \n Second line')
+console.log("My name is 'Luan'")
+console.log('Her first name is "Luana"')
+console.log(`The multiplication of 5 by 3 is ${5*3}`)
+console.log("My " + "name" + " is " + "Luan.")
+console.log()
