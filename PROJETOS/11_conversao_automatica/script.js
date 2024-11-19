@@ -1,0 +1,5 @@
+console.log('12' + 5)
+console.log('30' - 10)
+console.log('cinco' * 5)
+console.log('5' * 5)
+console.log('quatro' * 'dois')
